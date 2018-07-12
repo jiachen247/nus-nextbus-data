@@ -1,10 +1,10 @@
 {
-    "metadata": "last updated 11/7/2018",
+    "metadata": "last updated 11/7/2018 | to add order",
     "source": "http://www.nus.edu.sg/oca/Transport/Getting-around-NUS.html",
 
     "data": [
         {
-            "service" : "A1",
+            "serviceCode" : "A1",
             "express": false,
 
             "operating_hours": {
@@ -127,7 +127,7 @@
         },
 
         {
-            "service" : "A2",
+            "serviceCodeCode" : "A2",
             "express": false,
 
             "operating_hours": {
@@ -250,21 +250,21 @@
         },
 
         {
-            "service": "A1E",
+            "serviceCodeCode": "A1E",
             "express": true,
             "operating_hours": "0730-1000",
             "remarks": "Operates during term time on weekdays except Public Holidays."
         },
 
         {
-            "service": "A2E",
+            "serviceCodeCode": "A2E",
             "express": true,
             "operating_hours": "1730-1900",
             "remarks": "Operates during term time on weekdays except Public Holidays."
         },
 
         {
-            "service" : "B1",
+            "serviceCodeCode" : "B1",
             "express": false,
 
             "operating_hours": {
@@ -310,7 +310,7 @@
         },
 
         {
-            "service" : "B2",
+            "serviceCodeCode" : "B2",
             "express": false,
 
             "operating_hours": {
@@ -385,7 +385,7 @@
         },
 
         {
-            "service" : "C",
+            "serviceCodeCode" : "C",
             "express": false,
 
             "operating_hours": {
@@ -450,7 +450,7 @@
         },
 
         {
-            "service" : "D1",
+            "serviceCodeCode" : "D1",
             "express": false,
 
             "operating_hours": {
@@ -564,7 +564,7 @@
         },
 
         {
-            "service" : "D2",
+            "serviceCode" : "D2",
             "express": false,
 
             "operating_hours": {
@@ -678,7 +678,7 @@
         },
 
         {
-            "service" : "BTC",
+            "serviceCode" : "BTC",
             "express": false,
 
             "operating_hours": {

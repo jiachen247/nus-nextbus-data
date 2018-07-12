@@ -127,7 +127,7 @@
         },
 
         {
-            "serviceCodeCode" : "A2",
+            "serviceCode" : "A2",
             "express": false,
 
             "operating_hours": {
@@ -250,21 +250,21 @@
         },
 
         {
-            "serviceCodeCode": "A1E",
+            "serviceCode": "A1E",
             "express": true,
             "operating_hours": "0730-1000",
             "remarks": "Operates during term time on weekdays except Public Holidays."
         },
 
         {
-            "serviceCodeCode": "A2E",
+            "serviceCode": "A2E",
             "express": true,
             "operating_hours": "1730-1900",
             "remarks": "Operates during term time on weekdays except Public Holidays."
         },
 
         {
-            "serviceCodeCode" : "B1",
+            "serviceCode" : "B1",
             "express": false,
 
             "operating_hours": {
@@ -310,7 +310,7 @@
         },
 
         {
-            "serviceCodeCode" : "B2",
+            "serviceCode" : "B2",
             "express": false,
 
             "operating_hours": {
@@ -385,7 +385,7 @@
         },
 
         {
-            "serviceCodeCode" : "C",
+            "serviceCode" : "C",
             "express": false,
 
             "operating_hours": {
@@ -450,7 +450,7 @@
         },
 
         {
-            "serviceCodeCode" : "D1",
+            "serviceCode" : "D1",
             "express": false,
 
             "operating_hours": {

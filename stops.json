@@ -5,6 +5,9 @@
     "data": [
         {
             "name": "SDE?",
+            "external_only": true,
+            "latitude": 1.23,
+            "longtitude":123.00,
             "description": "",
             "road_name": "Kent Ridge Crescent",
             "lta_code": "16199"
@@ -12,6 +15,9 @@
         {
             "name": "OPP_SDE?",
             "description": "",
+            "external_only": true,
+            "latitude": 1.23,
+            "longtitude":123.00,
             "road_name": "Kent Ridge Crescent",
             "lta_code": "16191"
         },

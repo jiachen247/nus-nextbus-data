@@ -1,0 +1,223 @@
+{
+    "metadata": "last updated 11/7/2018",
+    "source": "http://www.nus.edu.sg/oca/Transport/Getting-around-NUS.html",
+
+    "data": [
+        {
+            "name": "SDE?",
+            "description": "",
+            "road_name": "Kent Ridge Crescent",
+            "lta_code": "16199"
+        },
+        {
+            "name": "OPP_SDE?",
+            "description": "",
+            "road_name": "Kent Ridge Crescent",
+            "lta_code": "16191"
+        },
+        {
+            "name": "AS7",
+            "description": "",
+            "road_name": "Kent Ridge Drive",
+            "lta_code": null
+          },
+          {
+            "name": "BIZ2",
+            "description": "",
+            "road_name": "Business Link",
+            "lta_code": null
+          },
+          {
+            "name": "BG-MRT",
+            "description": "",
+            "road_name": "Bukit Timah Road",
+            "lta_code": null
+          },
+          {
+            "name": "CENLIB",
+            "description": "",
+            "road_name": "Kent Ridge Crescent",
+            "lta_code": "16181"
+          },
+          {
+            "name": "CGH",
+            "description": "College Green",
+            "road_name": "Dunearn Road",
+            "lta_code": null
+          },
+          {
+            "name": "COM2",
+            "description": "",
+            "road_name": "Computing Drive",
+            "lta_code": null
+          },
+          {
+            "name": "BLK-EA-OPP",
+            "description": "",
+            "road_name": "Clementi Road",
+            "lta_code": null
+          },
+          {
+            "name": "COMCEN",
+            "description": "",
+            "road_name": "Kent Ridge Crescent",
+            "lta_code": "16189"
+          },
+          {
+            "name": "KR-BT",
+            "description": "",
+            "road_name": "Clementi Road",
+            "lta_code": null
+          },
+          {
+            "name": "KR-MRT",
+            "description": "",
+            "road_name": "Lower Kent Ridge Rd",
+            "lta_code": "18331"
+          },
+          {
+            "name": "KV",
+            "description": "Kent Vale (0715hrs to 1000hrs)",
+            "road_name": "Clementi Road",
+            "lta_code": null
+          },
+          {
+            "name": "LT13",
+            "description": "ventus",
+            "road_name": "Kent Ridge Drive",
+            "lta_code": null
+          },
+          {
+            "name": "LT29",
+            "description": "sci",
+            "road_name": "Lower Kent Ridge Rd",
+            "lta_code": "18301"
+          },
+          {
+            "name": "MUSEUM",
+            "description": "opp raffles hall",
+            "road_name": "Kent Ridge Crescent",
+            "lta_code": "16161"
+          },
+          {
+            "name": "BUKITTIMAH-BTC2",
+            "description": "",
+            "road_name": "Bukit Timah Campus",
+            "lta_code": null
+          },
+          {
+            "name": "HSSML-OPP",
+            "description": "",
+            "road_name": "Business Link",
+            "lta_code": null
+          },
+          {
+            "name": "KR-MRT-OPP",
+            "description": "",
+            "road_name": "Lower Kent Ridge Rd",
+            "lta_code": "18339"
+          },
+          {
+            "name": "NUSS-OPP",
+            "description": "",
+            "road_name": "Kent Ridge Drive",
+            "lta_code": null
+          },
+          {
+            "name": "PGP12-OPP",
+            "description": "",
+            "road_name": "Prince George's Park",
+            "lta_code": null
+          },
+          {
+            "name": "UHALL-OPP",
+            "description": "",
+            "road_name": "Lower Kent Ridge Rd",
+            "lta_code": "18319"
+          },
+          {
+            "name": "STAFFCLUB-OPP",
+            "description": "opp university health center",
+            "road_name": "Lower Kent Ridge Rd",
+            "lta_code": "18321"
+          },
+          {
+            "name": "YIH-OPP",
+            "description": "",
+            "road_name": "Kent Ridge Crescent",
+            "lta_code": "16179"
+          },
+          {
+            "name": "PGP14-15",
+            "description": "",
+            "road_name": "Prince George's Park",
+            "lta_code": null
+          },
+          {
+            "name": "PGP7",
+            "description": "",
+            "road_name": "Prince George's Park",
+            "lta_code": null
+          },
+          {
+            "name": "PGP",
+            "description": "",
+            "road_name": "Prince George's Park",
+            "lta_code": null
+          },
+          {
+            "name": "PGPT",
+            "description": "",
+            "road_name": "Prince George's Park",
+            "lta_code": null
+          },
+          {
+            "name": "RAFFLES",
+            "description": "",
+            "road_name": "Kent Ridge Crescent",
+            "lta_code": "16169"
+          },
+          {
+            "name": "S17",
+            "description": "",
+            "road_name": "Lower Kent Ridge Rd",
+            "lta_code": "18309"
+          },
+          {
+            "name": "PGP12",
+            "description": "",
+            "road_name": "Prince George's Park",
+            "lta_code": null
+          },
+          {
+            "name": "UHALL",
+            "description": "s12?",
+            "road_name": "Lower Kent Ridge Rd",
+            "lta_code": "18311"
+          },
+          {
+            "name": "STAFFCLUB",
+            "description": "",
+            "road_name": "Lower Kent Ridge Rd",
+            "lta_code": "18329"
+          },
+          {
+            "name": "UTown",
+            "description": "",
+            "road_name": "University Town",
+            "lta_code": null
+          },
+          {
+            "name": "LT13-OPP",
+            "description": "ventus",
+            "road_name": "Kent Ridge Drive",
+            "lta_code": null
+          },
+          {
+            "name": "YIH",
+            "description": "",
+            "road_name": "Kent Ridge Crescent",
+            "lta_code": "16171"
+          }
+    ]
+}

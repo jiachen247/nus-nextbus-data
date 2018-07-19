@@ -1,0 +1,136 @@
+{
+    "A" : {
+        "weekdays": {
+            "first": "0715",
+            "last": "2300"
+        },
+        "saturdays": {
+            "first": "0715",
+            "last": "2300"
+        },
+        "sundaysPh": {
+            "first": "0900",
+            "last": "2300"
+        }
+    },
+
+    "A1E": {
+        "weekdays": {
+            "first": "0730",
+            "last": "1000"
+        },
+        "saturdays": {
+            "first": null,
+            "last": null
+        },
+        "sundaysPh": {
+            "first": null,
+            "last": null
+        }
+    },
+
+    "A2E" :{
+        "weekdays": {
+            "first": "1730",
+            "last": "1900"
+        },
+        "saturdays": {
+            "first": null,
+            "last": null
+        },
+        "sundaysPh": {
+            "first": null,
+            "last": null
+        }
+    },
+
+    "B1" : {
+        "weekdays": {
+            "first": "0715",
+            "last": "2300"
+        },
+        "saturdays": {
+            "first": null,
+            "last": null
+        },
+        "sundaysPh": {
+            "first": null,
+            "last": null
+        }
+    },
+
+    "B2" : {
+        "weekdays": {
+            "first": "0730",
+            "last": "1900"
+        },
+        "saturdays": {
+            "first": null,
+            "last": null
+        },
+        "sundaysPh": {
+            "first": null,
+            "last": null
+        }
+    },
+
+    "C" : {
+        "weekdays": {
+            "first": "0715",
+            "last": "2300"
+        },
+        "saturdays": {
+            "first": "0715",
+            "last": "1900"
+        },
+        "sundaysPh": {
+            "first": null,
+            "last": null
+        }
+    },
+
+    "C*" : {
+        "weekdays": {
+            "first": "0715",
+            "last": "1000"
+        },
+        "saturdays": {
+            "first": "0715",
+            "last": "1000"
+        },
+        "sundaysPh": {
+            "first": null,
+            "last": null
+        }
+    },
+
+    "D" : {
+        "weekdays": {
+            "first": "0715",
+            "last": "2300"
+        },
+        "saturdays": {
+            "first": "0715",
+            "last": "2300"
+        },
+        "sundaysPh": {
+            "first": "0915",
+            "last": "2300"
+        }
+    },
+
+    "BTC" : {
+        "weekdays": {
+            "first": "0720",
+            "last": "2130"
+        },
+        "saturdays": {
+            "first": "0830",
+            "last": "1230"
+        },
+        "sundaysPh": {
+            "first": null,
+            "last": null
+        }
+    }
+}

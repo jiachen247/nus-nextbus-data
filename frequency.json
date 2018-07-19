@@ -1,0 +1,362 @@
+{
+    "_": "if timing is null -> no service.",
+
+    "A": {
+        "semester": [
+            {
+                "timing": "0715-0800",
+                "peak": true,
+                "weekdays": "10",
+                "saturdays": "15",
+                "sundaysPh": null
+            },
+            {
+                "timing": "0800-0900",
+                "peak": true,
+                "weekdays": "5-8",
+                "saturdays": "15",
+                "sundaysPh": null
+            },
+            {
+                "timing": "0900-1000",
+                "peak": true,
+                "weekdays": "5-8",
+                "saturdays": "15",
+                "sundaysPh": "30"
+            },
+            {
+                "timing": "1000-1200",
+                "peak": false,
+                "weekdays": "15",
+                "saturdays": "15",
+                "sundaysPh": "30"
+            },
+            {
+                "timing": "1200 - 1400",
+                "peak": true,
+                "weekdays": "5-8",
+                "saturdays": "15",
+                "sundaysPh": "30"
+            },
+            {
+                "timing": "1400-1700",
+                "peak": false,
+                "weekdays": "15",
+                "saturdays": "15",
+                "sundaysPh": "30"
+            },
+            {
+                "timing": "1700-2000",
+                "peak": true,
+                "weekdays": "5-8",
+                "saturdays": "15",
+                "sundaysPh": "30"
+            },
+            {
+                "timing": "2000-2300",
+                "peak": true,
+                "weekdays": "15",
+                "saturdays": "15",
+                "sundaysPh": "30"
+            }
+        ],
+        "vacation": [
+            {
+                "timing": "0715-0900",
+                "peak": false,
+                "weekdays": "15",
+                "saturdays": "15",
+                "sundaysPh": null
+            },
+            {
+                "timing": "0900-1900",
+                "peak": false,
+                "weekdays": "15",
+                "saturdays": "15",
+                "sundaysPh": "30"
+            },
+            {
+                "timing": "1900-2300",
+                "peak": false,
+                "weekdays": "30",
+                "saturdays": "30",
+                "sundaysPh": "30"
+            }
+        ]
+    },
+
+    "A1E": {
+        "semester": {
+            "timing": "0730-1000",
+            "peak": true,
+            "weekdays": "5-8",
+            "saturdays": null,
+            "sundaysPh": null
+        },
+        "vacation" : null
+    },
+
+    "A2E" :{
+        "semester": {
+            "timing": "1730-1900",
+            "peak": true,
+            "weekdays": "5-8",
+            "saturdays": null,
+            "sundaysPh": null
+        },
+        "vacation" : null
+    },
+
+    "B1": {
+        "semester": [
+            {
+                "timing": "0715-0730",
+                "peak": true,
+                "weekdays": "15",
+                "saturdays": null,
+                "sundaysPh": null
+            },
+            {
+                "timing": "0730-1900",
+                "peak": true,
+                "weekdays": "30",
+                "saturdays": null,
+                "sundaysPh": null
+            }
+        ],
+        "vacation": null
+    },
+
+    "B2": {
+        "semester": [
+            {
+                "timing": "0715-0730",
+                "peak": true,
+                "weekdays": "15",
+                "saturdays": null,
+                "sundaysPh": null
+            },
+            {
+                "timing": "0730-1900",
+                "peak": true,
+                "weekdays": "30",
+                "saturdays": "30",
+                "sundaysPh": null
+            },
+            {
+                "timing": "1900-2300",
+                "peak": false,
+                "weekdays": "30",
+                "saturdays": null,
+                "sundaysPh": null
+            }
+            
+        ],
+        "vacation": [
+            {
+                "timing": "0715-1900",
+                "peak": false,
+                "weekdays": "30",
+                "saturdays": "30",
+                "sundaysPh": null
+            },
+            {
+                "timing": "1900-2300",
+                "peak": false,
+                "weekdays": "30",
+                "saturdays": null,
+                "sundaysPh": null
+            }
+        ]
+    },
+
+    "C" : {
+        "semester": [
+            {
+                "timing": "0715-1900",
+                "peak": true,
+                "weekdays": "15",
+                "saturdays": "30",
+                "sundaysPh": null
+            },
+            {
+                "timing": "1900-2300",
+                "peak": false,
+                "weekdays": "30",
+                "saturdays": null,
+                "sundaysPh": null
+            }
+        ],
+        "vacation": [
+            {
+                "timing": "0715-1900",
+                "peak": false,
+                "weekdays": "15",
+                "saturdays": "30",
+                "sundaysPh": null
+            },
+            {
+                "timing": "1900-2300",
+                "peak": false,
+                "weekdays": "30",
+                "saturdays": null,
+                "sundaysPh": null
+            }
+        ]
+    },
+
+    "D" : {
+        "semester": [
+            {
+                "timing": "0715-0800",
+                "peak": true,
+                "weekdays": "6-9",
+                "saturdays": "15",
+                "sundaysPh": null
+            },
+            {
+                "timing": "0800-1000",
+                "peak": true,
+                "weekdays": "6-9",
+                "saturdays": "15",
+                "sundaysPh": null
+            },
+            {
+                "timing": "1000-1200",
+                "peak": false,
+                "weekdays": "15",
+                "saturdays": "15",
+                "sundaysPh": "30"
+            },
+            {
+                "timing": "1200-1400",
+                "peak": true,
+                "weekdays": "6-9",
+                "saturdays": "15",
+                "sundaysPh": "30"
+            },
+            {
+                "timing": "1400-1700",
+                "peak": false,
+                "weekdays": "15",
+                "saturdays": "15",
+                "sundaysPh": "30"
+            },
+            {
+                "timing": "1700-2000",
+                "peak": true,
+                "weekdays": "6-9",
+                "saturdays": "15",
+                "sundaysPh": "30"
+            },
+            {
+                "timing": "2000-2300",
+                "peak": false,
+                "weekdays": "15",
+                "saturdays": "30",
+                "sundaysPh": "30"
+            }
+        ],
+        "vacation": [
+            {
+                "timing": "0715-0900",
+                "peak": false,
+                "weekdays": "15",
+                "saturdays": "15",
+                "sundaysPh": null
+            },
+            {
+                "timing": "0900-1900",
+                "peak": false,
+                "weekdays": "15",
+                "saturdays": "15",
+                "sundaysPh": "30"
+            },
+            {
+                "timing": "1900-2300",
+                "peak": false,
+                "weekdays": "30",
+                "saturdays": "30",
+                "sundaysPh": "30"
+            }
+        ]
+    },
+
+    "BTC" : {
+        "semester": [
+            {
+                "timing": "0720-0900",
+                "peak": true,
+                "weekdays": "20",
+                "saturdays": "60",
+                "sundaysPh": null
+            },
+            {
+                "timing": "0900-1200",
+                "peak": false,
+                "weekdays": "30",
+                "saturdays": "60",
+                "sundaysPh": null
+            },
+            {
+                "timing": "1200-1230",
+                "peak": true,
+                "weekdays": "20",
+                "saturdays": "60",
+                "sundaysPh": null
+            },
+            {
+                "timing": "1230-1400",
+                "peak": true,
+                "weekdays": "20",
+                "saturdays": null,
+                "sundaysPh": null
+            },
+            {
+                "timing": "1400-1700",
+                "peak": false,
+                "weekdays": "30",
+                "saturdays": null,
+                "sundaysPh": null
+            },
+            {
+                "timing": "1700-2000",
+                "peak": true,
+                "weekdays": "20",
+                "saturdays": null,
+                "sundaysPh": null
+            },
+            {
+                "timing": "2000-2130",
+                "peak": false,
+                "weekdays": "30",
+                "saturdays": null,
+                "sundaysPh": null
+            }
+        ],
+        "vacation": [
+            {
+                "timing": "0730-0830",
+                "peak": false,
+                "weekdays": "30",
+                "saturdays": null,
+                "sundaysPh": null
+            },
+            {
+                "timing": "0830-1230",
+                "peak": false,
+                "weekdays": "30",
+                "saturdays": "60",
+                "sundaysPh": null
+            },
+            {
+                "timing": "1230-1900",
+                "peak": false,
+                "weekdays": "30",
+                "saturdays": null,
+                "sundaysPh": null
+            }
+           
+        ]
+    }
+}

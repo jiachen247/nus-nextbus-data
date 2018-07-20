@@ -1,5 +1,4 @@
 {
-
     "A": {
         "semester": [
             {
@@ -85,24 +84,29 @@
     },
 
     "A1E": {
-        "semester": {
-            "timing": "0730-1000",
-            "peak": true,
-            "weekdays": "5-8",
-            "saturdays": null,
-            "sundaysPh": null
-        },
+        "semester": [
+            {
+                
+                "timing": "0730-1000",
+                "peak": true,
+                "weekdays": "5-8",
+                "saturdays": null,
+                "sundaysPh": null
+            }
+        ],
         "vacation" : null
     },
 
     "A2E" :{
-        "semester": {
-            "timing": "1730-1900",
-            "peak": true,
-            "weekdays": "5-8",
-            "saturdays": null,
-            "sundaysPh": null
-        },
+        "semester": [
+            {
+                "timing": "1730-1900",
+                "peak": true,
+                "weekdays": "5-8",
+                "saturdays": null,
+                "sundaysPh": null
+            }
+        ],
         "vacation" : null
     },
 

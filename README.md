@@ -35,7 +35,7 @@ OperatingHours | String | FK |
 Remarks | String | | optional 
 
 ## IOperatingHours
-ServiceType | String | PK | 
+ServiceGroup | String | PK | 
 WeekdayFirst | | | 
 WeekdayLast  | | |
 SatFirst | | |
@@ -46,7 +46,7 @@ SunPhLast | | |
 ## IFrequency
 Column | Type | Options | Remarks
 --- | --- | --- | ---
-ServiceType | String | FK CK |
+ServiceGroup | String | FK CK |
 Chronology | Int | CK | order of timings
 TimeRange | String | eg. "0715-0900"
 Peak | Boolean |
@@ -63,6 +63,7 @@ ServiceCode | String | CK |
 remarks | String| |
 StopCode | String | CK |  
 StopNumber | Int | |
+Remarks | | |
 
 ## EService
 Column | Type | Options | Remarks

@@ -1,0 +1,74 @@
+{
+    "95" : [
+        {
+            "ServiceNo": "95",
+            "Operator": "SBST",
+            "Direction": 1,
+            "Category": "TRUNK",
+            "OriginCode": "16009",
+            "DestinationCode": "16009",
+            "AM_Peak_Freq": "09-10",
+            "AM_Offpeak_Freq": "07-12",
+            "PM_Peak_Freq": "07-18",
+            "PM_Offpeak_Freq": "11-15",
+            "LoopDesc": "Holland Rd",
+
+            "Origin": "Kent Ridge Ter",
+            "Destination" : "Kent Ridge Ter"
+        }
+    ],
+    "96" : [
+        {
+            "ServiceNo": "96",
+            "Operator": "TTS",
+            "Direction": 1,
+            "Category": "TRUNK",
+            "OriginCode": "17009",
+            "DestinationCode": "17009",
+            "AM_Peak_Freq": "06-07",
+            "AM_Offpeak_Freq": "05-13",
+            "PM_Peak_Freq": "05-07",
+            "PM_Offpeak_Freq": "05-10",
+            "LoopDesc": "Kent Ridge Cres",
+
+            "Origin": "Clementi Int",
+            "Destination" : "Clementi Int"
+        }
+    ],
+    "151" : [
+        {
+            "ServiceNo": "151",
+            "Operator": "SBST",
+            "Direction": 1,
+            "Category": "TRUNK",
+            "OriginCode": "64009",
+            "DestinationCode": "16009",
+            "AM_Peak_Freq": "06-12",
+            "AM_Offpeak_Freq": "06-15",
+            "PM_Peak_Freq": "08-10",
+            "PM_Offpeak_Freq": "14-17",
+            "LoopDesc": "",
+
+            "Origin": "Hougang Ctrl Int",
+            "Destination" : "Kent Ridge Ter"
+        },
+
+        {
+            "ServiceNo": "151",
+            "Operator": "SBST",
+            "Direction": 2,
+            "Category": "TRUNK",
+            "OriginCode": "16009",
+            "DestinationCode": "64009",
+            "AM_Peak_Freq": "07-13",
+            "AM_Offpeak_Freq": "07-17",
+            "PM_Peak_Freq": "08-09",
+            "PM_Offpeak_Freq": "10-20",
+            "LoopDesc": "",
+
+            "Origin": "Hougang Ctrl Int",
+            "Destination" : "Kent Ridge Ter"
+        }
+
+    ]
+}

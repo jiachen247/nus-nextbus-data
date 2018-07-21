@@ -4,20 +4,20 @@
 
     "data": [
         {
-            "name": "SDE?",
+            "name": "NUS Fac Of Design & Env",
             "external_only": true,
-            "latitude": 1.23,
-            "longtitude":123.00,
-            "description": "",
+            "latitude": 1.29639303583424,
+            "longtitude": 103.77072917887465,
+            "description": "NUS Fac Of Design & Env",
             "road_name": "Kent Ridge Crescent",
             "lta_code": "16199"
         },
         {
-            "name": "OPP_SDE?",
+            "name": "Opp NUS Fac Of Architect",
             "description": "",
             "external_only": true,
-            "latitude": 1.23,
-            "longtitude":123.00,
+            "latitude": 1.29614307417349,
+            "longtitude": 103.7703702141818,
             "road_name": "Kent Ridge Crescent",
             "lta_code": "16191"
         },

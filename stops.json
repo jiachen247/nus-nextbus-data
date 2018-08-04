@@ -7,7 +7,7 @@
             "name": "NUS Fac Of Design & Env",
             "external_only": true,
             "latitude": 1.29639303583424,
-            "longtitude": 103.77072917887465,
+            "longitude": 103.77072917887465,
             "description": "NUS Fac Of Design & Env",
             "road_name": "Kent Ridge Crescent",
             "lta_code": "16199"
@@ -17,7 +17,7 @@
             "description": "",
             "external_only": true,
             "latitude": 1.29614307417349,
-            "longtitude": 103.7703702141818,
+            "longitude": 103.7703702141818,
             "description": "Opp NUS Fac Of Architect",
             "road_name": "Kent Ridge Crescent",
             "lta_code": "16191"

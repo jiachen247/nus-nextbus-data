@@ -23,7 +23,7 @@ Caption | String | | source 1
 Description | String | | todo : give stops more desciptive and accurate names  
 RoadName | String | | 
 Latitude | Double | | 
-Longtitude | Double
+longitude | Double
 
 ## IService
 Column | Type | OPtions |  Remarks

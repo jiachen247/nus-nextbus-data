@@ -98,7 +98,7 @@
     {
         "ServiceNo": "183",
         "Operator": "TTS",
-        "Direction": 2,
+        "Direction": 1,
         "Category": "TRUNK",
         "OriginCode": "28009",
         "DestinationCode": "28009",

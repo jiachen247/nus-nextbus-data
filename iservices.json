@@ -54,14 +54,6 @@
             "operating_hours": "C",
             "frequency": "C"
         },
-
-        {
-            "serviceCode" : "C*",
-            "express": false,
-            "operating_hours": "C*",
-            "frequency": "C*"
-        },
-
         {
             "serviceCode" : "D1",
             "express": false,

@@ -14,7 +14,6 @@
         },
         {
             "name": "Opp NUS Fac Of Architect",
-            "description": "",
             "external_only": true,
             "latitude": 1.29614307417349,
             "longitude": 103.7703702141818,
@@ -22,6 +21,16 @@
             "road_name": "Kent Ridge Crescent",
             "lta_code": "16191"
         },
+
+        {
+          "name": "The Japanese Pr Sch",
+          "external_only": true,
+          "latitude": 1.30076138899694,
+          "longitude": 103.76993555602371,
+          "description": "The Japanese Primary School",
+          "road_name": "Clementi Road",
+          "lta_code": "16151"
+      },
         {
             "name": "AS7",
             "description": "",
@@ -62,7 +71,7 @@
             "name": "BLK-EA-OPP",
             "description": "",
             "road_name": "Clementi Road",
-            "lta_code": null
+            "lta_code": "16191"
           },
           {
             "name": "COMCEN",

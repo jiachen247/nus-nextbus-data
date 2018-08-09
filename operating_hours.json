@@ -89,21 +89,6 @@
         }
     },
 
-    "C*" : {
-        "weekdays": {
-            "first": "0715",
-            "last": "1000"
-        },
-        "saturdays": {
-            "first": "0715",
-            "last": "1000"
-        },
-        "sundaysPh": {
-            "first": null,
-            "last": null
-        }
-    },
-
     "D" : {
         "weekdays": {
             "first": "0715",

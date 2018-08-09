@@ -341,5 +341,112 @@
             "SUN_FirstBus": "0634",
             "SUN_LastBus": "2305"
         }
+    ],
+
+    "33": [
+        {
+            "ServiceNo": "33",
+            "Operator": "SBST",
+            "Direction": 1,
+            "StopSequence": 62,
+            "BusStopCode": "16159",
+            "Distance": 24.5,
+            "WD_FirstBus": "0655",
+            "WD_LastBus": "0100",
+            "SAT_FirstBus": "0641",
+            "SAT_LastBus": "0057",
+            "SUN_FirstBus": "0712",
+            "SUN_LastBus": "0052"
+        },
+        {
+            "ServiceNo": "33",
+            "Operator": "SBST",
+            "Direction": 1,
+            "StopSequence": 63,
+            "BusStopCode": "16149",
+            "Distance": 24.8,
+            "WD_FirstBus": "0656",
+            "WD_LastBus": "0101",
+            "SAT_FirstBus": "0642",
+            "SAT_LastBus": "0058",
+            "SUN_FirstBus": "0713",
+            "SUN_LastBus": "0053"
+        },
+        {
+            "ServiceNo": "33",
+            "Operator": "SBST",
+            "Direction": 1,
+            "StopSequence": 64,
+            "BusStopCode": "16009",
+            "Distance": 25.2,
+            "WD_FirstBus": "0658",
+            "WD_LastBus": "0103",
+            "SAT_FirstBus": "0643",
+            "SAT_LastBus": "0059",
+            "SUN_FirstBus": "0714",
+            "SUN_LastBus": "0054"
+        },
+    
+        {
+            "ServiceNo": "33",
+            "Operator": "SBST",
+            "Direction": 2,
+            "StopSequence": 3,
+            "BusStopCode": "16141",
+            "Distance": 0.5,
+            "WD_FirstBus": "0602",
+            "WD_LastBus": "2347",
+            "SAT_FirstBus": "0602",
+            "SAT_LastBus": "2347",
+            "SUN_FirstBus": "0602",
+            "SUN_LastBus": "2347"
+        }
+
+    ],
+    "183": [
+        {
+            "ServiceNo": "183",
+            "Operator": "TTS",
+            "Direction": 1,
+            "StopSequence": 19,
+            "BusStopCode": "16159",
+            "Distance": 8.3,
+            "WD_FirstBus": "0614",
+            "WD_LastBus": "2354",
+            "SAT_FirstBus": "0630",
+            "SAT_LastBus": "2357",
+            "SUN_FirstBus": "0626",
+            "SUN_LastBus": "2359"
+        }
+    ],
+    "188": [
+        {
+            "ServiceNo": "188",
+            "Operator": "SMRT",
+            "Direction": 1,
+            "StopSequence": 33,
+            "BusStopCode": "16159",
+            "Distance": 13.6,
+            "WD_FirstBus": "0619",
+            "WD_LastBus": "2341",
+            "SAT_FirstBus": "0613",
+            "SAT_LastBus": "2340",
+            "SUN_FirstBus": "0611",
+            "SUN_LastBus": "2340"
+        },
+        {
+            "ServiceNo": "188",
+            "Operator": "SMRT",
+            "Direction": 2,
+            "StopSequence": 23,
+            "BusStopCode": "16151",
+            "Distance": 7.9,
+            "WD_FirstBus": "0624",
+            "WD_LastBus": "2350",
+            "SAT_FirstBus": "0622",
+            "SAT_LastBus": "2352",
+            "SUN_FirstBus": "0650",
+            "SUN_LastBus": "2349"
+        }
     ]
 }

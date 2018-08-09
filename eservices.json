@@ -48,18 +48,82 @@
     },
     
     {
-        "ServiceNo": "151",
+        "ServiceNo": "33",
+        "Operator": "SBST",
+        "Direction": 1,
+        "Category": "TRUNK",
+        "OriginCode": "84009",
+        "DestinationCode": "16009",
+        "AM_Peak_Freq": "09-16",
+        "AM_Offpeak_Freq": "09-16",
+        "PM_Peak_Freq": "12-14",
+        "PM_Offpeak_Freq": "12-15",
+        "LoopDesc": "",
+        "Origin": "Bedok Int",
+        "Destination" : "Kent Ridge Ter"
+    },
+
+    {
+        "ServiceNo": "33",
         "Operator": "SBST",
         "Direction": 2,
         "Category": "TRUNK",
         "OriginCode": "16009",
-        "DestinationCode": "64009",
-        "AM_Peak_Freq": "07-13",
-        "AM_Offpeak_Freq": "07-17",
-        "PM_Peak_Freq": "08-09",
-        "PM_Offpeak_Freq": "10-20",
+        "DestinationCode": "84009",
+        "AM_Peak_Freq": "08-14",
+        "AM_Offpeak_Freq": "08-16",
+        "PM_Peak_Freq": "09-11",
+        "PM_Offpeak_Freq": "11-16",
         "LoopDesc": "",
-        "Origin": "Hougang Ctrl Int",
-        "Destination" : "Kent Ridge Ter"
+        "Origin": "Kent Ridge Ter",
+        "Destination" : "Bedok Int"
+    },
+
+    {
+        "ServiceNo": "183",
+        "Operator": "TTS",
+        "Direction": 2,
+        "Category": "TRUNK",
+        "OriginCode": "28009",
+        "DestinationCode": "28009",
+        "AM_Peak_Freq": "05-08",
+        "AM_Offpeak_Freq": "05-15",
+        "PM_Peak_Freq": "06-09",
+        "PM_Offpeak_Freq": "16-19",
+        "LoopDesc": "Science Pk Rd",
+        "Origin": "Jurong East Int",
+        "Destination" : "Jurong East Int"
+    },
+
+    {
+        "ServiceNo": "188",
+        "Operator": "SMRT",
+        "Direction": 1,
+        "Category": "TRUNK",
+        "OriginCode": "44009",
+        "DestinationCode": "14009",
+        "AM_Peak_Freq": "05-10",
+        "AM_Offpeak_Freq": "07-16",
+        "PM_Peak_Freq": "07-13",
+        "PM_Offpeak_Freq": "13-14",
+        "LoopDesc": "",
+        "Origin": "Choa Chu Kang Int",
+        "Destination" : "HabourFront Int"
+    },
+
+    {
+        "ServiceNo": "188",
+        "Operator": "SMRT",
+        "Direction": 2,
+        "Category": "TRUNK",
+        "OriginCode": "14009",
+        "DestinationCode": "44009",
+        "AM_Peak_Freq": "09-14",
+        "AM_Offpeak_Freq": "07-16",
+        "PM_Peak_Freq": "07-08",
+        "PM_Offpeak_Freq": "08-14",
+        "LoopDesc": "",
+        "Origin": "HabourFront Int",
+        "Destination" : "Choa Chu Kang Int"
     }
 ]

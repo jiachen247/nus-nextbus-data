@@ -46,6 +46,22 @@
         "Origin": "Hougang Ctrl Int",
         "Destination" : "Kent Ridge Ter"
     },
+
+    {
+        "ServiceNo": "151",
+        "Operator": "SBST",
+        "Direction": 2,
+        "Category": "TRUNK",
+        "OriginCode": "16009",
+        "DestinationCode": "64009",
+        "AM_Peak_Freq": "07-13",
+        "AM_Offpeak_Freq": "07-17",
+        "PM_Peak_Freq": "08-09",
+        "PM_Offpeak_Freq": "10-20",
+        "LoopDesc": "",
+        "Origin": "Kent Ridge Ter",
+        "Destination" : "Hougang Ctrl Int"
+    },
     
     {
         "ServiceNo": "33",

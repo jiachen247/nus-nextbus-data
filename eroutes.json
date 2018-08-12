@@ -361,21 +361,6 @@
         {
             "ServiceNo": "33",
             "Operator": "SBST",
-            "Direction": 1,
-            "StopSequence": 64,
-            "BusStopCode": "16009",
-            "Distance": 25.2,
-            "WD_FirstBus": "0658",
-            "WD_LastBus": "0103",
-            "SAT_FirstBus": "0643",
-            "SAT_LastBus": "0059",
-            "SUN_FirstBus": "0714",
-            "SUN_LastBus": "0054"
-        },
-    
-        {
-            "ServiceNo": "33",
-            "Operator": "SBST",
             "Direction": 2,
             "StopSequence": 3,
             "BusStopCode": "16141",

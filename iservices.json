@@ -49,7 +49,7 @@
         },
 
         {
-            "serviceCode" : "C",
+            "serviceCode" : "C1",
             "express": false,
             "operating_hours": "C",
             "frequency": "C"
